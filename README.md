@@ -8,7 +8,7 @@ Openledger Node Setup One Command Guide WSL/VPS by sah
 
 ```bash
 source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/refs/heads/main/Install-Openledger.sh)
-
+```bash
 
 - After Installsation Complete Get Node Window & Login With Your 2nd Google Account
 - Connect Your Node
