@@ -1,6 +1,10 @@
 #!/bin/bash
 echo "-----------------------------------------------------------------------------"
-figlet "EDS SAH"
+echo "  EEEE  DDDD   SSSS"
+echo "  E     D   D  S"
+echo "  EEEE  D   D  SSSS"
+echo "  E     D   D     S"
+echo "  EEEE  DDDD   SSSS"
 echo "-----------------------------------------------------------------------------"
 
 
