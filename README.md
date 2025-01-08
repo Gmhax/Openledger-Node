@@ -22,4 +22,4 @@ source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/
 ```
 
 Exit the Session
-Press : Crtrl A+D
+Press : Ctrl A+D
