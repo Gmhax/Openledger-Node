@@ -32,9 +32,13 @@ sudo apt update
 # Install additional required libraries
 sudo apt install libasound2 -y
 sudo apt install xvfb -y
+sudo apt update
+sudo apt install -y xvfb
+
 
 # Set DISPLAY environment variable
 export DISPLAY=:0
 
 # Start Openledger Node with specific options
-openledger-node --no-sandbox --disable-gpu
+xvfb-run openledger-node --no-sandbox --disable-gpu
+
