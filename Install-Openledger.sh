@@ -1,11 +1,11 @@
 #!/bin/bash
-echo "-----------------------------------------------------------------------------"
+echo 
 echo "  EEEE  DDDD   SSSS"
 echo "  E     D   D  S"
 echo "  EEEE  D   D  SSSS"
 echo "  E     D   D     S"
 echo "  EEEE  DDDD   SSSS"
-echo "-----------------------------------------------------------------------------"
+echo 
 
 
 
