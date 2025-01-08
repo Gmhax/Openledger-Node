@@ -6,11 +6,20 @@ Openledger Node Setup One Command Guide WSL/VPS by sah
 ## Open VPS/WSL Ubuntu Terminal & Paste Command
 (For VPS Download [MobaXterm](https://mobaxterm.mobatek.net/) or [FinalShell](https://www.hostbuf.com/finalshell.html))
 
-```bash
-source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/refs/heads/main/Install-Openledger.sh)
-```bash
 
-- After Installsation Complete Get Node Window & Login With Your 2nd Google Account
+- After Installation Complete Get Node Window & Login With Your 2nd Google Account
 - Connect Your Node
 - Login Your Dashboard & Complete Mission Daily
 - Run Your Node 24/7
+
+```bash
+screen -S ledger
+```
+
+
+```bash
+source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/refs/heads/main/Install-Openledger.sh)
+```
+
+Exit the Session
+Press : Crtrl A+D
