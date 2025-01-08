@@ -7,8 +7,8 @@ Open VPS/WSL Ubuntu Termianel & Past Command (For VPS Download [MobaXterm](https
 
 ```bash
 source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/refs/heads/main/Install-Openledger.sh)
+---
 
-# Description
 - After Installsation Complete Get Node Window & Login With Your 2nd Google Account
 - Connect Your Node
 - Login Your Dashboard & Complete Mission Daily
