@@ -12,6 +12,8 @@ Openledger Node Setup One Command Guide WSL/VPS by sah
 - Login Your Dashboard & Complete Mission Daily
 - Run Your Node 24/7
 
+COMMAND:
+
 ```bash
 screen -S ledger
 ```
