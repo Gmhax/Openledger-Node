@@ -20,7 +20,7 @@ screen -S ledger
 
 
 ```bash
-source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/refs/heads/main/Install-Openledger.sh)
+source <(wget -O - https://raw.githubusercontent.com/Gmhax/Openledger-Node/refs/heads/main/Install-Openledger.sh)
 ```
 
 Exit the Session
